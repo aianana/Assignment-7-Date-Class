@@ -49,5 +49,7 @@ Difference between 7/9/2025 and 18/9/2025: 11 days
 
 Difference between 12/9/2025 and 18/9/2025: 6 days
 
-Screenshots:
+Screenshot:
 -
+
+![Alt text](images/screen3.png)
