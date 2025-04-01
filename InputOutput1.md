@@ -50,5 +50,7 @@ Difference between 25/12/2020 and 15/8/2023: 963 days
 
 Difference between 10/2/2021 and 15/8/2023: 916 days
 
-Screenshots:
+Screenshot:
 -
+
+![Alt text](images/screen1.png)
