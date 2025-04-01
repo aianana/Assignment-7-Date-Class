@@ -36,13 +36,13 @@
 
 **Compilation**
 
-"javac -cp ".;jansi-<version>.jar" Date.java"
+"javac -cp ".;jansi-(version).jar" Date.java"
 
 Replace <version> with the correct version of jansi installed on your system.
 
 **Execution**
 
-"java -cp ".;jansi-<version>.jar" Date"
+"java -cp ".;jansi-(version).jar" Date"
 
 **Steps to Run**
 
