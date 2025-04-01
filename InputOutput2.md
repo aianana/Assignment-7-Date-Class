@@ -49,5 +49,7 @@ Difference between 10/1/2022 and 3/11/2022: 297 days
 
 Difference between 5/6/2022 and 3/11/2022: 151 days
 
-Screenshots:
+Screenshot:
 -
+
+![Alt text](images/screen2.png)
